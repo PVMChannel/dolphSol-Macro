@@ -1,3 +1,4 @@
+note: i have no idea what i did with the commit history lol im archivng this
 # dolphSol Macro
  A macro for the Roblox game "Sol's RNG", including features such as obby completion and item collection. A work in progress - BuilderDolphin
 
